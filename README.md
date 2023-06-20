@@ -21,8 +21,8 @@ Try the [live demo](https://age-calculator-mokammeltanvir.vercel.app/) of the Ag
 
 ## Setup Instructions
 
-1. Clone the repository: `git clone https://github.com/your-username/age-calculator-app.git`
-2. Navigate to the project directory: `cd age-calculator-app`
+1. Clone the repository: `git clone https://github.com/mokammeltanvir/Age-Calculator-Vue.git`
+2. Navigate to the project directory: `cd Age-Calculator-Vue`
 3. Install the dependencies: `npm install`
 4. Run the development server: `npm run dev`
 5. Open your browser and visit `http://localhost:5173` to see the app in action.
